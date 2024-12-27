@@ -79,6 +79,7 @@
 
 #box1main{
     display: flex;
+    position: relative;
 }
 
 .image{
@@ -118,7 +119,7 @@
 .dots{
     text-align: center;
     position: absolute;
-    bottom:54px;
+    bottom:80px;
     left: 46%;
     padding: 5px 10px;
     height: 30px;
@@ -209,6 +210,9 @@
     width: 62px;
 }
 
+.image4{
+    position: relative;
+}
 
 #imgtxt4{
     display: flex;
@@ -365,6 +369,7 @@
 }
 
 .image2{
+    position: relative;
     width: 100%;
 }
 
@@ -395,7 +400,7 @@
 
 #imgtxt01{
     position: absolute;
-    top: 191%;
+    top: 60%;
     right: 24%;
     color: white;
 }
@@ -411,7 +416,7 @@
 
 #imgtxt02{
     position: absolute;
-    top: 184%;
+    top: 60%;
     right: 22%;
     color: white;
 }
@@ -435,7 +440,7 @@
 
 #imgtxt03{
     position: absolute;
-    top: 184%;
+    top: 50%;
     right: 20%;
     color: white;
 }
@@ -443,42 +448,42 @@
 
 #imgtxt04{
     position: absolute;
-    top: 224%;
+    top: 80%;
     right: 21%;
     color: white;
 }
 
 #imgtxt05{
     position: absolute;
-    top: 184%;
+    top: 50%;
     left: 7%;
     color: white;
 }
 
 #imgtxt06{
     position: absolute;
-    top: 224%;
+    top: 50%;
     left: 46%;
     color: white;
 }
 
 #imgtxt07{
     position: absolute;
-    top: 192%;
+    top: 50%;
     left: 6%;
     color: white;
 }
 
 #imgtxt08{
     position: absolute;
-    top: 225%;
+    top: 50%;
     right: 18%;
     color: white;
 }
 
 #imgtxt09{
     position: absolute;
-    top: 215%;
+    top: 60%;
     left: 6%;
     color: white;
 }
@@ -537,6 +542,7 @@
 }
 
 .image3{
+    position: relative;
     width: 100%;
 }
 
@@ -547,7 +553,7 @@
 #imgtxt10{
     display: flex;
     position: absolute;
-    top: 315%;
+    top: 70%;
     right: 41.5%;
     color: white;
 }
@@ -565,7 +571,7 @@
 
 #imgtxt20{
     position: absolute;
-    top: 315%;
+    top: 50%;
     left: 46%;
     color: white;
 }
@@ -581,14 +587,14 @@
 
 #imgtxt30{
     position: absolute;
-    top: 315%;
+    top: 50%;
     left: 46%;
     color: white;
 }
 
 #imgtxt40{
     position: absolute;
-    top: 280%;
+    top: 50%;
     left: 7%;
     color: white;
 }
@@ -612,15 +618,7 @@
 #imgtxt50{
     display: flex;
     position: absolute;
-    top: 315%;
-    right: 10%;
-    color: white;
-}
-
-#imgtxt50{
-    display: flex;
-    position: absolute;
-    top: 315%;
+    top: 50%;
     right: 10%;
     color: white;
 }
@@ -628,7 +626,7 @@
 #imgtxt60{
     display: flex;
     position: absolute;
-    top: 315%;
+    top: 80%;
     right: 17%;
     color: white;
 }
@@ -647,7 +645,7 @@
 #imgtxt70{
     display: flex;
     position: absolute;
-    top: 316%;
+    top: 70%;
     right: 45%;
 }
 
@@ -665,7 +663,7 @@
 #imgtxt80{
     display: flex;
     position: absolute;
-    top: 316%;
+    top: 50%;
     right: 45%;
 }
 
@@ -717,6 +715,7 @@
 }
 
 .image5{
+    position: relative;
     width: 100%;
 }
 
@@ -766,13 +765,14 @@
 
 
 .image6{
+    position: relative;
     width: 100%;
 }
 
 #tint1{
     display: block;
     position: absolute;
-    top: 522%;
+    top: 0%;
     height: 534px;
     background-color: rgba(0, 0, 0, 0.1);
     width: 100%;
@@ -839,7 +839,7 @@
 #imgtxt101{
     display: flex;
     position: absolute;
-    top: 407%;
+    top: 60%;
     right: 18.5%;
     color: white;
 }
@@ -856,7 +856,7 @@
 
 #imgtxt102{
     position: absolute;
-    top: 362%;
+    top: 50%;
     left: 6%;
     color: white;
 }
@@ -874,7 +874,7 @@
 
 #imgtxt103{
     position: absolute;
-    top: 408%;
+    top: 50%;
     right: 45.3%;
     color: white;
 }
@@ -891,7 +891,7 @@
 
 #imgtxt104{
     position: absolute;
-    top: 407%;
+    top: 80%;
     left: 7%;
     color: white;
 }
@@ -907,7 +907,7 @@
 
 #imgtxt105{
     position: absolute;
-    top: 381%;
+    top: 50%;
     left: 6%;
     color: white;
 }
@@ -923,7 +923,7 @@
 
 #imgtxt106{
     position: absolute;
-    top: 473%;
+    top: 50%;
     left: 6%;
     color: white;
 }
@@ -939,7 +939,7 @@
 
 #imgtxt107{
     position: absolute;
-    top: 499%;
+    top: 83%;
     left: 7%;
     color: white;
 }
@@ -955,7 +955,7 @@
 
 #imgtxt108{
     position: absolute;
-    top: 557%;
+    top: 50%;
     left: 6%;
     color: white;
 }
@@ -978,7 +978,7 @@
 
 #imgtxt109{
     position: absolute;
-    top: 554%;
+    top: 50%;
     left: 6%;
     color: white;
 }
@@ -1000,7 +1000,7 @@
 
 #imgtxt110{
     position: absolute;
-    top: 554%;
+    top: 50%;
     left: 6%;
     color: white;
 }
@@ -1022,7 +1022,7 @@
 
 #imgtxt111{
     position: absolute;
-    top: 556%;
+    top: 50%;
     left: 6%;
     color: white;
 }
